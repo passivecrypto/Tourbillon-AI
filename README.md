@@ -1,6 +1,6 @@
 ## Financial Disclaimer
 
-No Financial Advice
+Not Financial Advice.
 The information, analysis, reports, and services provided by Starborne Research (including its website, social media, publications, and any affiliated platforms) are for general informational and entertainment purposes only. Nothing contained herein shall be construed as financial, investment, tax, or legal advice. Users are solely responsible for verifying the accuracy and suitability of any information before making financial decisions.
 
 User Responsibility & Due Diligence
@@ -67,9 +67,9 @@ Set the public key as the account_address in config.json.
 
 Set your private key as the secret_key in config.json.
 
-Set your STRIPE subscription key in config.py 
+Set your STRIPE subscription license key in config.py 
 
-Set your desired settings in config.py
+Set your desired settings and asset class in config.py
 
 Recommended settings are default.
 BTC is the best market to trade. ETH is also a good one. 
