@@ -67,9 +67,18 @@ Set the public key as the account_address in config.json.
 
 Set your private key as the secret_key in config.json.
 
-Set your desired settings in parameters
+Set your STRIPE subscription key in config.py 
 
-Run the Bot
+Set your desired settings in config.py
+
+Recommended settings are default.
+BTC is the best market to trade. ETH is also a good one. 
+Recommend only trading one market unless you are dealing with slippage and millions of dollars.
+
+Note: Deviating from default parameters constitute as a rewriting of the code and we are even further not liable for any potential financial losses incurred.
+
+
+Run the Bot using Run_bot.py
 
 
 
