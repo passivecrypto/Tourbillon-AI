@@ -1,0 +1,32 @@
+# Essential requirements for HyperLiquidMMalgo Tourbillonbot
+# Python 3.11.9 compatible
+
+# Core dependencies
+eth-account==0.13.7
+eth-abi==5.2.0
+eth-keyfile==0.8.1
+eth-keys==0.4.0
+eth-rlp==2.2.0
+eth-typing==3.2.0
+eth-utils==2.2.0
+parsimonious==0.10.0
+parsimonious-lite==0.11.0  # Python 3.11 compatibility
+pycryptodome==3.18.0
+requests==2.31.0
+hexbytes==1.3.0
+rlp==3.0.0
+typing_extensions==4.13.2
+web3
+eth_account
+hyperliquid-python-sdk
+pytest
+pytest-mock
+# stripe # Removed, validation moved server-side
+
+# Additional dependencies
+pydantic==2.11.3
+ckzg==2.1.1
+regex==2024.11.6
+requests
+stripe
+eth-account # Added for Hyperliquid interaction

@@ -1,0 +1,16 @@
+{
+    "secret_key": "YOUR SECRET_KEY HERE",
+    "account_address": "YOUR ACCOUNT_ADDRESS HERE",
+    "multi_sig": {
+        "authorized_users": [
+            {
+                "secret_key": "",
+                "account_address": ""
+            },
+            {
+                "secret_key": "",
+                "account_address": ""
+            }
+        ]
+    }
+}
