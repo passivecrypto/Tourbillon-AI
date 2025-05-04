@@ -1,4 +1,4 @@
-Financial Disclaimer
+## Financial Disclaimer
 
 No Financial Advice
 The information, analysis, reports, and services provided by Starborne Research (including its website, social media, publications, and any affiliated platforms) are for general informational and entertainment purposes only. Nothing contained herein shall be construed as financial, investment, tax, or legal advice. Users are solely responsible for verifying the accuracy and suitability of any information before making financial decisions.
@@ -42,7 +42,9 @@ Waive any right to pursue legal action against Starborne Research for losses inc
 
 
 
-HyperliquidMMBot
+
+
+## HyperliquidMMBot
 
 An Industry Standard Bot Hyperliquid API trading with Python.
 
